@@ -1,50 +1,48 @@
-## Hi, I'm Giulia ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc5c7d,100:6a3093&height=240&section=header&text=Giulia%20Sawaki&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Data%20analytics&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Giulia Sawaki banner"/>
+</div>
 
-🎯 Goal: To grow in the Data field, applying analysis, organization, and visualization of information to generate insights and support decision-making.
+## Giulia Sawaki
 
-🚀 About Me
+**Data analytics**
 
-🎓 Currently studying Database and enrolled in a Data Bootcamp at DIO<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ec4899&center=true&vCenter=true&width=640&lines=Turning%20raw%20numbers%20into%20clear%20business%20decisions;Bridging%20operational%20chaos%20into%20structured%20data%20flows;Uncovering%20patterns%2C%20shaping%20actionable%20insights)](https://git.io/typing-svg)
 
-💻 Background in administrative and hospital environments, with strong experience in information organization, reporting, and internal processes<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliasawaki/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giuliasawaki8@gmail.com)
 
-📊 Interested in Data Analysis, Business Intelligence, SQL, and Power BI<br/>
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-ec4899?style=flat-square)
 
-🌱 Passionate about continuously learning and transforming data into strategic insights<br/>
+Stack Técnica Atual: SQL (consultas, modelagem e extração), Python (análise e manipulação de dados), Power BI (dashboards e storytelling) e Excel avançado.
 
-🛠️ Tools & Technologies
+> Building something interesting? Let's connect: https://www.linkedin.com/in/giuliasawaki/
 
-Data Analysis: Power BI, Advanced Excel<br/>
+## Snapshot
 
-Others: Git/GitHub, Google Workspace, Microsoft Office<br/>
+- ⌖ **Location** · São Paulo - Brasil
+- ⌗ **Experience** · Gestão e Triagem de Informações: Experiência prática na validação, controle e cruzamento de dados de participantes e cronogramas em eventos de grande escala, reduzindo inconsistências e ruídos operacionais.  Organização de Processos & Compliance: Atuação em rotinas administrativas hospitalares e corporativas, com foco em padronização de documentos, controle de estoques e fluxos com regras rigorosas.  Tratamento de Mídia & Identificação Digital: Vivência na manipulação técnica de arquivos digitais e uso de ferramentas com reconhecimento automatizado para triagem e catalogação eficiente.
+- ◎ **Education** · Impacta, Generation Brasil
+- ⟳ **Learning** · Aprofundando conhecimentos em estruturação de bancos de dados, fluxos de análise com Python/SQL e comunicação estratégica de dados para tomada de decisão.
 
+## Tools I Reach For
 
-🌟 Professional Experience
+**Languages**
 
-Administrative Assistant (Hospital) – Managed medical records, organized documentation, and supported multidisciplinary teams.<br/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Languages"/>
 
-Administrative Assistant / Inventory Clerk (Automotive Sector) – Maintained inventory control, updated databases, and worked with Excel spreadsheets for parts management.<br/>
+**Backend & Databases**
 
-Apprentice at CPTM (Railway Company) – Provided administrative support, gained logistics knowledge, and worked with internal systems.<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Backend & Databases"/>
 
-📫 Let’s Connect
+**AI / ML**
 
-LinkedIn: https://www.linkedin.com/in/giulia-sawaki-043aa7189/<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark" alt="AI / ML"/>
 
-Email: giuliasawaki8@gmail.com<br/>
+## Languages
+- 🇬🇧 **English** · ![Intermediate](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
+- 🇯🇵 **Japanese** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giuliasawaki8@gmail.com) 
+<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://www.linkedin.com/in/giuliasawaki/)</sub>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=giuliasawaki4&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=giuliasawaki4&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliasawaki4&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=giuliasawaki4&icon=7&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
